@@ -16,8 +16,8 @@ sup{color:#F44336 }
 .kateg{background-color:#ddd;}
 li.kate {display:none;}
 li.kateg {display:block;}
-#marquee{background-color:#FF6D00 }
-#judul_isi,.judul_isi{background-color:#FF6D00;color:#fff}
+#marquee{background-color:#F44336 }
+#judul_isi,.judul_isi{background-color:#F44336;color:#fff}
 #content{background-image:url('');background-repeat:repeat;background-size:100px;background-color:#fff;}
 .page img{max-width: 100%;height: auto}
 .page iframe {max-width: 100%;}
