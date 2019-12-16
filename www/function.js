@@ -1,6 +1,6 @@
 var versi = "1";
-var url = "https://kanaya.my.id/app/";
-var url_admin = "https://kanaya.my.id/";
+var url = "https://filialtanahabang.com/app/";
+var url_admin = "https://filialtanahabang.com/";
 var api_ongkir = "https://ongkir.tokojs.com/api_ongkir/";
 
 var token='6KB4J3xGZX';
@@ -106,7 +106,7 @@ localStorage.setItem('lokasi',jejax);
 
 				localStorage.setItem(jejax,Base64.encode(result)); //simpan offline
 
-				if(halaman=='kategori' || halaman=='produk' || halaman=='all'){$('.bordercari').show();cek_akses();}
+				if(halaman=='kategori' || halaman=='produk' || halaman=='all'){$('.bordercari').show();}
 
 				if(halaman=='informasi'){isi_notif('info')}
 
