@@ -1,4 +1,4 @@
-var versi = "1";
+var versi = "2";
 var url = "https://filialtanahabang.com/app/";
 var url_admin = "https://filialtanahabang.com/";
 var api_ongkir = "https://ongkir.tokojs.com/api_ongkir/";
